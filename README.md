@@ -1,105 +1,101 @@
-# 🔥 STOKED BUILDS
+# 🧨 Stoked Builds
 
-Welcome to **Stoked Builds** — a launchpad for systems, specs, and side quests designed to reshape how we build, consume, and collaborate on the modern web. This is the home of **The Semantic Publishing Protocol**, **The Punk Forge**, and a growing ecosystem of tools, apps, and shared services built to be modular, AI-aware, and future-resilient.
+Welcome to **Stoked Builds** — the digital forge behind the **Semantic Publishing Protocol (SPP)** and a family of open systems built to survive and thrive in the era of autonomous agents, AI browsers, and a machine-interpreted web.
 
----
-
-## 🧠 The Semantic Publishing Protocol
-
-> *“We’ve taught AI to read the internet.  
-But what if we taught the internet to speak clearly — to humans and AI?”*
-
-The **Semantic Publishing Protocol (SPP)** is a new standard for publishing content in a way that is semantically structured, machine-understandable, and context-aware by default. It’s not about replacing humans with AI — it’s about enabling **humans to publish meaning** in a form that AI can remix, recombine, and reuse *without scraping or guessing*.
-
-SPP reimagines publishing as modular, interoperable, and intent-driven — built to power the next generation of agentic systems, knowledge layers, and personalised interfaces.
-
-📘 [Specification coming soon]  
-🧪 Demos and reference implementations live under **The Punk Forge** (see below)
+We are designing the **next layer of the internet**: machine-native, semantically rich, self-generating, and built with integrity.
 
 ---
 
-## 🛠 The Punk Forge
+## 🌍 The Collapse Loop We Must Avoid
 
-> *“DIY. Rebellious. Precise chaos.”*
+> “If AI agents start reading the web for us, who's left to actually *visit* it?”
 
-**The Punk Forge** is where we build and break things in public. It’s a growing suite of **reference apps**, **semantic publishing demos**, and **open source tools** designed to show what's possible when you combine structured content with composable design and agent-friendly architecture.
+As autonomous agents and AI-powered browsers begin to **scrape, summarise, and act on behalf of users**, we are facing a dangerous feedback loop:
 
-Here, you’ll find:
-- ✨ Live-coded demos built on the Semantic Publishing Protocol
-- 🧩 Modular reference apps for real-world use cases
-- 🔧 Tools and services that help power AI-assisted systems in a human-first way
+1. **Fewer page views for human-facing websites**  
+2. 👉 **Less ad revenue for content creators**  
+3. 👉 **Less incentive to produce content**  
+4. 👉 **Less training material for LLMs and agents**  
+5. 👉 **Diminishing content quality for everyone — including the agents**  
 
-📁 Coming soon: [punk-forge.stoked.tech](https://punk-forge.stoked.tech)  
-📦 Source: [See Repositories →](#)
+This loop leads to the slow **starvation of the open web** — a collapse of the very ecosystem that AI depends on to grow.
 
----
-
-## 🌍 Projects in the Ecosystem
-
-These are some of the projects orbiting the Stoked Builds ecosystem. Some are public, some will remain private — but the live sites will be accessible soon where applicable.
-
-### 🧩 Fullstack Boilerplate
-A modular, Docker-native fullstack template for building modern SaaS, powered by clean architecture, strong defaults, and developer joy.
-
-➡️ Public: coming soon  
-🔒 Source: Private
+We are here to break that loop.
 
 ---
 
-### 🧠 My ADHD System
-A self-hosted productivity assistant that merges task management, automations, notifications, and context-aware memory — tailored for neurodivergent minds (starting with mine).
+## 🔧 The Semantic Publishing Protocol (SPP)
 
-🌐 Live dashboard: coming soon  
-🔒 Source: Private
+**SPP** is an open specification that allows content to be published in a form that is:
 
----
+- ✅ **Human-readable**
+- ✅ **Agent-readable**
+- ✅ **Structured, attributed, and context-rich**
+- ✅ **Backwards compatible with today’s web**
+- ✅ **Forward-compatible with tomorrow’s AI**
 
-### 💰 One Dollar Vote
-A provocative experiment in value-weighted voting, content-driven civic interaction, and micro-patronage — with real economic impact.
+It transforms articles, products, posts, projects, and even memes into **semantic artefacts** — machine-interpretable blocks of meaning that can be reused, reasoned with, and built upon.
 
-🌐 [onedollarvote.com](https://onedollarvote.com) (launching soon)  
-🔒 Source: Private
-
----
-
-### 🚀 Get-Stoked
-Autonomous SEO, marketing, and growth tools for creators and apps built with Stoked Builds. Think of it as your personal growth engine — powered by AI, with full user data ownership and GDPR compliance from day one.
-
-🌐 [get.stoked.tech](https://get.stoked.tech) (coming soon)  
-🔒 Source: Private
+This is not SEO.  
+This is not metadata.  
+This is a **semantic OS for the web**.
 
 ---
 
-## 🧱 Shared Services
+## 🏴 The Punk Forge
 
-Stoked Builds includes a set of shared microservices for:
-- 🔐 Auth (via [Authentik](https://goauthentik.io/))
-- 🧑 User management & profile syncing
-- 📣 Notifications & system messages
-- 🧾 Billing, telemetry, analytics
-- 🧠 Memory/context layer for AI-powered interfaces
+Welcome to **The Punk Forge** — a growing collection of reference apps, open boilerplates, and protocol-first implementations showing how the SPP can power real systems.
 
-Some of these will be made available as part of the boilerplate. Others will remain internal to the Stoked ecosystem.
+> ⚙️ Built with rebellion. Structured with purpose.
 
----
+This is where we ship working code for:
+- 📜 Structured publishing
+- 🧠 Agentic reasoning
+- ⚡ Autonomous pipelines
+- 💡 Real-world implementation of the SPP
 
-## 📬 Stay in the Loop
-
-Want to get updates when the spec drops, or when new Punk Forge demos go live?
-
-📫 Follow [@MarkStokes](https://twitter.com/MarkStokes) on X  
-🌐 [stoked.tech](https://stoked.tech) (launch page coming soon)
+If you're looking to contribute or understand how it works in the wild, start here.
 
 ---
 
-## 👋 About This Org
+## 🧬 Related Projects (Public & Private)
 
-**Stoked Builds** is run by [Mark Stokes](https://x.com/MarkStokes) — technologist, rebel spec-writer, and builder of things that probably shouldn’t work… until they do.
+Many of the projects powered by the Stoked Builds ecosystem are still in stealth or early access. But soon, you'll see live releases of:
 
-Everything here is modular, intentional, and designed to survive contact with the real world.
+- **Get Stoked** – The autonomous growth engine that powers attention, attribution, and viral propagation for creators and platforms.
+- **One Dollar Vote** – A new civic micro-voting system where dollars power decisions, and creators earn from debate.
+- **My ADHD System** – A modular self-management stack designed to help neurodivergent brains thrive through automation and smart feedback loops.
+- **The Semantic Publishing Boilerplate** – A fullstack starter to build SPP-native apps fast.
+- **The Mediator** – AI-assisted communication clarity for strained relationships, co-parenting, and difficult dialogue.
 
-**Build loud.  
-Break things with care.  
-Publish meaning.**
+When each is ready, this repo will point to the relevant public documentation or source code.
 
 ---
+
+## 🚀 Get Involved
+
+We are at **version 0.2.0** of the spec and growing fast.  
+Now is the time to help shape the future:
+
+- ⭐ Star this repo
+- 📣 Share the vision
+- 🧠 Join the conversation
+- 🛠️ Fork, build, break, repeat
+
+Let’s teach the web to **speak for itself** — clearly, semantically, agentically.
+
+---
+
+## 🧪 Experiments. Protocols. Punk.
+
+Stoked Builds is not a company. It’s not a brand.
+
+It’s a **signal** — for builders, rebels, technologists, and writers who believe the web can still evolve **without being consumed**.
+
+Let’s build that next layer — together.
+
+---
+
+**📅 Founded: July 27, 2025**  
+**🌐 https://get.stoked.tech**  
+**💬 #SemanticPublishing #SPP #GetStoked**
