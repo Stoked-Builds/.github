@@ -1,101 +1,119 @@
-# 🧨 Stoked Builds
+# 🧠 Semantic Publishing Protocol (SPP)
 
-Welcome to **Stoked Builds** — the digital forge behind the **Semantic Publishing Protocol (SPP)** and a family of open systems built to survive and thrive in the era of autonomous agents, AI browsers, and a machine-interpreted web.
+The **Semantic Publishing Protocol (SPP)** is an open specification that allows content to be published in a way that is **fully understandable by both humans and autonomous agents**.
 
-We are designing the **next layer of the internet**: machine-native, semantically rich, self-generating, and built with integrity.
+It defines a system for encoding meaning, context, structure, and provenance **into the web itself** — enabling a new era of *agentic content consumption*, *autonomous reasoning*, and *machine-native publishing*.
 
----
-
-## 🌍 The Collapse Loop We Must Avoid
-
-> “If AI agents start reading the web for us, who's left to actually *visit* it?”
-
-As autonomous agents and AI-powered browsers begin to **scrape, summarise, and act on behalf of users**, we are facing a dangerous feedback loop:
-
-1. **Fewer page views for human-facing websites**  
-2. 👉 **Less ad revenue for content creators**  
-3. 👉 **Less incentive to produce content**  
-4. 👉 **Less training material for LLMs and agents**  
-5. 👉 **Diminishing content quality for everyone — including the agents**  
-
-This loop leads to the slow **starvation of the open web** — a collapse of the very ecosystem that AI depends on to grow.
-
-We are here to break that loop.
+This repo contains the canonical specification, supporting files, and reference artefacts.
 
 ---
 
-## 🔧 The Semantic Publishing Protocol (SPP)
+## 🚨 The Collapse Loop We Must Avoid
 
-**SPP** is an open specification that allows content to be published in a form that is:
+> The rise of AI agents could silently starve the open web.
 
-- ✅ **Human-readable**
-- ✅ **Agent-readable**
-- ✅ **Structured, attributed, and context-rich**
-- ✅ **Backwards compatible with today’s web**
-- ✅ **Forward-compatible with tomorrow’s AI**
+We are entering an era where autonomous agents — LLM-powered browsers, scrapers, plugins, assistants — **consume** the web **without viewing it**.
 
-It transforms articles, products, posts, projects, and even memes into **semantic artefacts** — machine-interpretable blocks of meaning that can be reused, reasoned with, and built upon.
+This triggers a dangerous recursive loop:
 
-This is not SEO.  
-This is not metadata.  
-This is a **semantic OS for the web**.
+1. **AI agents read content directly** (scrape/summarise, bypassing the UI)
+2. 👉 **Websites lose page views**
+3. 👉 **Ad revenue drops**
+4. 👉 **Creators stop publishing**
+5. 👉 **Less quality content is available**
+6. 👉 **AI agents degrade due to poor training data**
+7. 🔁 Loop continues, starving the ecosystem
 
----
+This isn’t theoretical. It’s already starting.
 
-## 🏴 The Punk Forge
-
-Welcome to **The Punk Forge** — a growing collection of reference apps, open boilerplates, and protocol-first implementations showing how the SPP can power real systems.
-
-> ⚙️ Built with rebellion. Structured with purpose.
-
-This is where we ship working code for:
-- 📜 Structured publishing
-- 🧠 Agentic reasoning
-- ⚡ Autonomous pipelines
-- 💡 Real-world implementation of the SPP
-
-If you're looking to contribute or understand how it works in the wild, start here.
+The Semantic Publishing Protocol exists to **break this loop** and ensure a thriving, high-quality, machine-readable web future.
 
 ---
 
-## 🧬 Related Projects (Public & Private)
+## ✅ What SPP Enables
 
-Many of the projects powered by the Stoked Builds ecosystem are still in stealth or early access. But soon, you'll see live releases of:
+The protocol allows any content to be published as a **semantic artefact** — an entity that includes:
 
-- **Get Stoked** – The autonomous growth engine that powers attention, attribution, and viral propagation for creators and platforms.
-- **One Dollar Vote** – A new civic micro-voting system where dollars power decisions, and creators earn from debate.
-- **My ADHD System** – A modular self-management stack designed to help neurodivergent brains thrive through automation and smart feedback loops.
-- **The Semantic Publishing Boilerplate** – A fullstack starter to build SPP-native apps fast.
-- **The Mediator** – AI-assisted communication clarity for strained relationships, co-parenting, and difficult dialogue.
+- 🧱 **Structured meaning**: Not just metadata, but full context, intent, and relevance
+- 📜 **Human-readable content**: Still renders like a regular post or page
+- 🤖 **Agent-readable structure**: Machines can understand, reuse, and reason with it
+- 🧬 **Provenance and authorship**: Attribution is baked into the artefact
+- 🌐 **Cross-site interoperability**: Content becomes portable, linkable, composable
 
-When each is ready, this repo will point to the relevant public documentation or source code.
-
----
-
-## 🚀 Get Involved
-
-We are at **version 0.2.0** of the spec and growing fast.  
-Now is the time to help shape the future:
-
-- ⭐ Star this repo
-- 📣 Share the vision
-- 🧠 Join the conversation
-- 🛠️ Fork, build, break, repeat
-
-Let’s teach the web to **speak for itself** — clearly, semantically, agentically.
+SPP isn’t just about search engines or SEO.  
+It’s about **equipping autonomous agents** to interact with content in a **truthful, contextual, and reversible** way.
 
 ---
 
-## 🧪 Experiments. Protocols. Punk.
+## 📐 What’s in This Repo
 
-Stoked Builds is not a company. It’s not a brand.
-
-It’s a **signal** — for builders, rebels, technologists, and writers who believe the web can still evolve **without being consumed**.
-
-Let’s build that next layer — together.
+- `spec/core.md` – The core Semantic Publishing Specification
+- `spec/artefact-format.md` – The structure of semantic artefacts
+- `spec/agent-interface.md` – How agents should interpret and interact with artefacts
+- `examples/` – Sample artefacts, markup, and publishing formats
+- `docs/` – Supplementary guidance, principles, and design philosophy
 
 ---
 
-**📅 Founded: July 27, 2025**  
-**🌐 https://get.stoked.tech**  
-**💬 #SemanticPublishing #SPP #GetStoked**
+## 🌱 Who This Is For
+
+- 🧠 **Developers** building agent-native platforms, summarisation tools, or AI-powered UIs
+- ✍️ **Writers and publishers** looking to future-proof their content
+- 🤖 **LLM engineers and AI researchers** designing agentic systems
+- 🧩 **Open web advocates** and decentralisation pioneers
+
+SPP is designed to be **easy to adopt** and **powerful when composed**.  
+It works with HTML, Markdown, Astro, JSON, RSS, APIs, and more.
+
+---
+
+## 🧪 Current Status
+
+We are currently in:
+
+**`v0.2.0 – Early Public Spec Release`**
+
+- ✅ Core specification defined
+- ✅ Artefact structure validated in test projects
+- ✅ Reference implementations underway
+- 🚧 Community discussion now open
+- 🚧 Integration layers in progress (Astro, Markdown, JSON-LD, etc.)
+
+---
+
+## 🧭 Where We’re Going
+
+Future plans include:
+
+- 🌐 Cross-site semantic artefact linking
+- 🔗 Verified attribution and content signatures
+- 🗺️ Knowledge graph overlays built from artefact webs
+- 💡 Live “agent-native” site generators and CMS plugins
+- 📦 Support for protocol-native packaging and indexing
+
+> If the web is going to be read by agents —  
+> it’s time we **publish for them**, not just around them.
+
+---
+
+## 🛠 Contribute or Fork
+
+This is the beginning of a long-term public infrastructure project.
+
+- 🧪 Review the spec
+- 🧱 Build something with it
+- 🗣 Join the discussion
+- 🚨 File issues and suggestions
+
+This protocol will evolve — but it will always remain **free**, **open**, and **for the survival of the web**.
+
+---
+
+## 💬 Join the Movement
+
+- **Discussion**: [[Coming Soon]](https://github.com/Stoked-Builds/.github/discussions)
+- **Hashtags**: `#SemanticPublishing`, `#SPP`, `#SaveTheWeb`
+
+**Published under open license. Attribution required.**
+
+**📅 First Release: July 27, 2025**
